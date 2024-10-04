@@ -26,7 +26,6 @@ Admin user can manage and handle the prohibited words for whole website.
 Admin user can add/edit countries, cities, salaries range, qualification, institutes, job industries, website ads.
 JOB PROVIDER / COMPANY FEATURES
 After registration job provider can perform following action:
-
  
 Add / Edit company’s profile
 Post new job vacancies
